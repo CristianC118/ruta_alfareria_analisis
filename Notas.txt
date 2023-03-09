@@ -1,0 +1,126 @@
+	Notas Análisis Alfarería
+	
+- Técnicas de elaboración como atractivo turístico
+
+- Planificación de Ruta:
+	* Desarrollo Sostenible del Sector Turístico 2019/2026
+	* Desarrollo de la oferta turística
+	* Desarrollo de productos turísticos
+	* Ampliación de la oferta de exp turísticas
+	* Canales de Comercialización
+
+- Crear Productos relacionados con las diferentes nacionalidades o cultura de la que provienen los turistas. (Incluyendo Paraguay)
+
+- Ruta Temática de la Alfarería
+	* Dimensión Social
+	* Dimensión Económica
+	* Dimensión Ambiental
+	
+- Dimensión Social
+	* Datos Personales
+	* Dirección de la vivienda:
+		- Geolocalización:
+			* Asociatividad 
+	* Datos del núcleo familiar
+	* Nivel de Formación Académica:
+	* Idiomas:
+	* Cursos de Formación Continúa
+	* Aprendizaje del oficio
+	* Antigüedad en el oficio de artesano
+	
+- Dimensión económica
+	* Dirección del Taller:
+	* Datos Relativos  a la producción
+	* Financiación
+	* Formalización laboral
+	* Comercialización
+	
+- Dimensión ambiental
+	* Materia Prima
+	* Energía
+	* Características del horno utilizado
+	
+- Columnas para Analizar
+	* Edad
+	* Genero
+	* Guaraní
+	* Castellano
+	* Otro Idioma
+	* Email
+	* Instagram
+	* Facebook
+	* Whatsapp
+	* Nivel Escolar
+	* Taller Horas de Trabajo
+	* Taller Tipo Personas 1
+	* Taller trab arte 1
+	* Taller Horas Trabajo 1
+	* Talle Tipo Persona 2
+	* Taller Horas Trabajo 2
+	* Registro Contribuyente
+	* Oficio Principal
+	* Oficio Principal Nombre
+	* Aprendió Oficio
+	* Antigüedad del oficio
+	* Sistema Proc Produc
+	* Ingreso Venta
+	* Fuente de Finan
+	* Mecanismo de Comercialización
+	* Método de Cobro
+	* Trans Bancaria
+	* Código QR
+	* Cheque
+	* Post Tarjeta
+	* Giros
+	* Torno Alfarero
+	* Molde Matric
+	* Model Mano
+	* Ñai'u / Barro Sedimentario
+	* Arcilla Tipmateria
+	* Mez_Pasta_Tipmat
+	* Otro Tipo de Materia
+	* Obtención de Materia Prima
+	* Cantidad de Material
+	* Engob
+	* Rustica
+	* Esgrafi
+	* Esmalta
+	* Pulid
+	* Otra_tec_term
+	* Madera_Fuente_coc
+	* Electco_fuente	
+	* Residuos fuente	
+	* Gas_fuente	
+	* Solar Fuente	
+	* Otro_Fuente_cocc
+	* Mad_nat_Fuente	
+	* Mad_ref_Fuente	
+	* Otra_fuente_coc
+	* Vajillera	
+	* UT_OLLA_OTROS	
+	* UT_BRAS_TATAK	
+	* SA_Pesebres	
+	* SA_ImgenesReligiosas	
+	* SA_Otros	
+	* DECO_PLATOS	
+	* DECO_CANT	
+	* DECO_PLANT	
+	* OTROS_PROD
+
+- Preguntar que significa:
+	* OTRF_Ventas (Columna AC)
+	* OTRF_CAL_PROD (Columna AE)
+	* OTRF_FIN_COS (Columna AF)
+	* OTRF_OTRO (Columna AG)
+	* Taller trab arte 1 (Columna AK - AQ - AW)
+	* Taller CIN (Columnas AI - AO - AU)
+	* Taller Tipo Persona (Columnas AJ - AP - AV)
+	* Taller Horas Trabajo (Columna AR - AX)
+	* Sistema Proc Produc (Columna BX)
+	* Mez_Pasta_Tipmat (Columna CM)
+	
+- Obs_1:
+	Incluir costos de obtención de materiales y costo total de lo que cuesta crear un producto para que sirva como puente a la hora de analizar que porcentaje es la ganancia total por cada venta.
+	
+- Obs_2: 
+	Para los espacios en blanco colocar razón del por qué quedo como valor nulo en caso de no haber valores como verdadero o falso. Ejemplo: En la columna de Edad (E) hay 26 espacios nulos los cuales a la hora de Analizar Datos no serán podidos tomarse en cuenta y hará que sea más difícil la obtención de respuestas para algunas preguntas. Se recomienda colocar algo que pueda identificarse como dato para que así también sea posible usarse como dato a analizar en un futuro. Un ejemplo podría ser "No quiso responder" o "No quiere dar detalle".
