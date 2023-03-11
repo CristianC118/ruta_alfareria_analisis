@@ -19,8 +19,8 @@
 - Dimensión Social
 	* Datos Personales
 	* Dirección de la vivienda:
-		- Geolocalización:
-			* Asociatividad 
+	* Geolocalización:
+	* Asociatividad 
 	* Datos del núcleo familiar
 	* Nivel de Formación Académica:
 	* Idiomas:
@@ -40,16 +40,15 @@
 	* Energía
 	* Características del horno utilizado
 	
-- Columnas para Analizar
-	* Edad
-	* Genero
+- Columnas para Analizar:
+	* Edad ✅
+	* Genero ✅
 	* Guaraní
 	* Castellano
 	* Otro Idioma
-	* Email
-	* Instagram
-	* Facebook
-	* Whatsapp
+	* Instagram ✅
+	* Facebook ✅
+	* Whatsapp ✅
 	* Nivel Escolar
 	* Taller Horas de Trabajo
 	* Taller Tipo Personas 1
