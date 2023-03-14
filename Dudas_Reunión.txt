@@ -1,0 +1,50 @@
+- inconsistencias en las columnas
+
+- que buscan hallar u obtener con la encuesta
+	* responder de antemano esa pregunta hará que sea más fácil la creación de la Base de Datos con sus diferentes
+	tablas y relaciones entre ellas.
+
+- columnas innecesarias o sin posible uso
+	1- Latitud y Longitud:
+		* Se puede usar solo una columna para obtener la posición exacta del lugar de referencia.Para ello seria 	mejor simplemente usar geolocalización y copiar el link de referencia, así también servirá para tener menos 	errores de datos.
+	
+	2- Barrio, Compañía, Asentamiento y Nom_B_C_A:
+		* En lugar de ocupar 4 columnas se podría usar simplemente 2 y colocar lo siguiente... Reside_en y que las 	opciones sean Barrio, Compañía y Asentamiento, y al lado otra columna con el nombre Nombre_Lugar_Reside ya sea 	del barrio, compañía 	o asentamiento.
+		
+	3- Pais:
+		Esta es completamente innecesaria ya que el proyecto es a nivel nacional y por más que el jefe o dueño del 	negocio sea extranjero el local se encuentra en territorio paraguayo.
+		
+	4- Taller Tipo Personas:
+		Para acortar gran cantidad de columnas se puede simplemente agregar una columna "Nombre" para el dueño del 	negocio y otra como "trabajadores" y se agregue las siguientes opciones como Familiar, Jornalero y 	Familiar_Jornalero. (Igual con las horas de trabajo).
+		
+	5- Organ_Pertenece, Columna 1, Columna 2, CargosOcupo
+	
+	6- Metod_Cobro
+		
+
+- bastantes celdas vacías (imposibilitan trabajar con ellas)
+
+- complicación en los nombres de las columnas
+
+Obs_1:
+	Incluir costos de obtención de materiales y costo total de la producción del producto final, para que de esta forma sirva como puente a la hora de analizar el porcentaje de la ganancia total por cada venta realizada.
+
+Obs_2:
+	Incluir la cantidad de productos vendidos para poder realizar un análisis de porcentajes de ganancias y así saber si la cantidad de productos influye o no a la hora de ganar más o menos dinero.
+
+Obs_3:
+	Para los espacios en blanco colocar razón del por qué quedo como valor nulo en caso de no haber valores como verdadero o falso. Ejemplo: En la columna de Edad (E) hay 26 espacios nulos los cuales a la hora de analizar datos no serán podidos tomarse en cuenta y hará que sea más difícil la obtención de respuestas para algunas preguntas. Recomienda colocar algo que pueda identifarse como dato para que así también sea posible usarse como dato a analizar en un futuro. Un ejemplo podría ser "No quiso responder" o "No está seguro de dar dicha información", etc.
+
+Obs_4:
+	En excel, es recomendable utilizar una sola respuesta consistente para preguntas de opciones binarias, como verdadero o falso, o sí o no. Esto se debe a que excel se basa en una estructura de datos tabulares, donde cada celda contiene un solo valor. Sí utilizas diferentes respuestas para la misma pregunta o columna a responder, esto puede dificultar el análisis de datos y la creación de informes.
+
+Obs_5:
+	Averiguar a que tipo de entidades venden con mayor frecuencia sus productos (Persona Particular, Empresas, Organizaciones, etc) para ello poder realizar un análisis de mercado y saber si tienen variedad de clientela y así poder sacar datos como: dependerán de una sola variedad de clientela o no, influye o no la hora de ganar más o menos, etc.
+
+Obs_6:
+	Preguntar a los alfareros cuantas personas interesadas en los productos reciben por día. De esa forma se podrá saber cuantas personas compran productos de acuerdo al porcentaje de personas interasadas o visitantes del lugar.
+
+Obs_7:
+	Crear productos relacionados con las diferentes nacionalidades o cultura de la que provienen los turistas (Incluyendo Paraguay).
+
+
